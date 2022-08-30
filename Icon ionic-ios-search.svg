@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="21.349" height="21.273" viewBox="0 0 21.349 21.273">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #828684;
+        stroke: #828684;
+      }
+    </style>
+  </defs>
+  <path id="Icon_ionic-ios-search" data-name="Icon ionic-ios-search" class="cls-1" d="M24.53,23.3l-5.637-5.69a8.033,8.033,0,1,0-1.219,1.235l5.6,5.653a.867.867,0,0,0,1.224.032A.873.873,0,0,0,24.53,23.3ZM12.581,18.912a6.343,6.343,0,1,1,4.486-1.858A6.3,6.3,0,0,1,12.581,18.912Z" transform="translate(-4 -3.993)"/>
+</svg>

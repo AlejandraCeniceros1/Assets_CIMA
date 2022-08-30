@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="39.098" height="39.099" viewBox="0 0 39.098 39.099">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #000;
+        stroke-width: 3px;
+      }
+    </style>
+  </defs>
+  <path id="Icon_awesome-location-arrow" data-name="Icon awesome-location-arrow" class="cls-1" d="M31.255.248,2.021,13.74A3.409,3.409,0,0,0,3.37,20.262H15.739V32.631A3.409,3.409,0,0,0,22.26,33.98L35.753,4.745a3.508,3.508,0,0,0-4.5-4.5Z" transform="translate(1.54 1.558)"/>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20.377" height="20.377" viewBox="0 0 20.377 20.377">
+  <defs>
+    <style>
+      .cls-1 {
+        opacity: 0.29;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #ff4c29;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <g id="Icon_feather-help-circle" data-name="Icon feather-help-circle" class="cls-1" transform="translate(-2 -2)">
+    <path id="Trazado_144" data-name="Trazado 144" class="cls-2" d="M21.377,12.188A9.188,9.188,0,1,1,12.188,3,9.188,9.188,0,0,1,21.377,12.188Z"/>
+    <path id="Trazado_145" data-name="Trazado 145" class="cls-2" d="M13.635,12.335a2.757,2.757,0,0,1,5.357.919c0,1.838-2.757,2.757-2.757,2.757" transform="translate(-4.12 -2.903)"/>
+    <path id="Trazado_146" data-name="Trazado 146" class="cls-2" d="M18,25.5h0" transform="translate(-5.812 -8.717)"/>
+  </g>
+</svg>

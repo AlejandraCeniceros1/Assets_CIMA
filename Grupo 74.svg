@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="79.954" height="56.989" viewBox="0 0 79.954 56.989">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-7 {
+        fill: none;
+      }
+
+      .cls-1, .cls-2, .cls-4 {
+        stroke: #000;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-linecap: round;
+        stroke-width: 3px;
+      }
+
+      .cls-1 {
+        stroke-linejoin: round;
+      }
+
+      .cls-5, .cls-6 {
+        stroke: none;
+      }
+
+      .cls-6 {
+        fill: #000;
+      }
+    </style>
+  </defs>
+  <g id="Grupo_74" data-name="Grupo 74" transform="translate(-87.885 1.567)">
+    <g id="Icon_feather-box" data-name="Icon feather-box" transform="translate(89.385)">
+      <g id="Grupo_12" data-name="Grupo 12">
+        <path id="Trazado_43" data-name="Trazado 43" class="cls-1" d="M3.446,37.362-8.889,3.08H68.066L56.584,37.362H3.446" transform="translate(8.889 5.881)"/>
+        <line id="Línea_8" data-name="Línea 8" class="cls-2" y2="11.888" transform="translate(6.643 14.628)"/>
+        <line id="Línea_9" data-name="Línea 9" class="cls-2" y2="27.491" transform="translate(15.607 14.628)"/>
+        <line id="Línea_10" data-name="Línea 10" class="cls-2" y2="27.491" transform="translate(24.572 14.628)"/>
+        <line id="Línea_11" data-name="Línea 11" class="cls-2" y2="27.491" transform="translate(33.536 14.628)"/>
+        <line id="Línea_12" data-name="Línea 12" class="cls-2" y2="27.491" transform="translate(42.501 14.628)"/>
+        <line id="Línea_13" data-name="Línea 13" class="cls-2" y2="27.491" transform="translate(51.465 14.628)"/>
+        <line id="Línea_14" data-name="Línea 14" class="cls-2" y2="27.491" transform="translate(61.027 14.628)"/>
+        <path id="Trazado_47" data-name="Trazado 47" class="cls-2" d="M0,0V13.089" transform="translate(70.589 14.628)"/>
+        <path id="Trazado_45" data-name="Trazado 45" class="cls-2" d="M28.7,13.375s-12.734-1.424-19.911,0S0,19.07,0,19.07" transform="translate(7.838 -10.419)"/>
+        <path id="Trazado_46" data-name="Trazado 46" class="cls-2" d="M-5.247,13.488S3.979,9.41,12.231,10.834s15.529,8.35,15.529,8.35" transform="translate(42.232 -10.532)"/>
+      </g>
+    </g>
+    <g id="Trazado_49" data-name="Trazado 49" class="cls-3" transform="translate(90 42.422)">
+      <path class="cls-5" d="M0,0H77V8.007H0Z"/>
+      <path class="cls-6" d="M 2.5 2.500000953674316 L 2.5 5.507201194763184 L 74.5 5.507201194763184 L 74.5 2.500000953674316 L 2.5 2.500000953674316 M 0 9.5367431640625e-07 L 77 9.5367431640625e-07 L 77 8.007201194763184 L 0 8.007201194763184 L 0 9.5367431640625e-07 Z"/>
+    </g>
+    <g id="Elipse_1" data-name="Elipse 1" class="cls-4" transform="translate(95 48.422)">
+      <ellipse class="cls-5" cx="4.5" cy="3.5" rx="4.5" ry="3.5"/>
+      <ellipse class="cls-7" cx="4.5" cy="3.5" rx="4" ry="3"/>
+    </g>
+    <g id="Elipse_2" data-name="Elipse 2" class="cls-4" transform="translate(103 48.422)">
+      <ellipse class="cls-5" cx="4" cy="3.5" rx="4" ry="3.5"/>
+      <ellipse class="cls-7" cx="4" cy="3.5" rx="3.5" ry="3"/>
+    </g>
+    <g id="Elipse_3" data-name="Elipse 3" class="cls-4" transform="translate(110 48.422)">
+      <ellipse class="cls-5" cx="4" cy="3.5" rx="4" ry="3.5"/>
+      <ellipse class="cls-7" cx="4" cy="3.5" rx="3.5" ry="3"/>
+    </g>
+    <g id="Elipse_4" data-name="Elipse 4" class="cls-4" transform="translate(153 48.422)">
+      <ellipse class="cls-5" cx="4.5" cy="3.5" rx="4.5" ry="3.5"/>
+      <ellipse class="cls-7" cx="4.5" cy="3.5" rx="4" ry="3"/>
+    </g>
+    <g id="Elipse_5" data-name="Elipse 5" class="cls-4" transform="translate(146 48.422)">
+      <ellipse class="cls-5" cx="4" cy="3.5" rx="4" ry="3.5"/>
+      <ellipse class="cls-7" cx="4" cy="3.5" rx="3.5" ry="3"/>
+    </g>
+    <g id="Elipse_6" data-name="Elipse 6" class="cls-4" transform="translate(138 48.422)">
+      <ellipse class="cls-5" cx="4.5" cy="3.5" rx="4.5" ry="3.5"/>
+      <ellipse class="cls-7" cx="4.5" cy="3.5" rx="4" ry="3"/>
+    </g>
+    <path id="Trazado_48" data-name="Trazado 48" class="cls-4" d="M0,0,1.838,3.679H69.5L71.476,0" transform="translate(92.659 48.59)"/>
+  </g>
+</svg>

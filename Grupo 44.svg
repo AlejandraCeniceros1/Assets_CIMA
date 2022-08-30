@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="53" height="53" viewBox="0 0 53 53">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: rgba(47,56,75,0.99);
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-2, .cls-3 {
+        stroke: #fff;
+        stroke-width: 2px;
+      }
+
+      .cls-3 {
+        fill: #313a4d;
+      }
+    </style>
+  </defs>
+  <g id="Grupo_44" data-name="Grupo 44" transform="translate(0.285)">
+    <circle id="Elipse_7" data-name="Elipse 7" class="cls-1" cx="26.5" cy="26.5" r="26.5" transform="translate(-0.285)"/>
+    <g id="Icon_ionic-ios-checkmark-circle-outline" data-name="Icon ionic-ios-checkmark-circle-outline" transform="translate(19.294 13.505)">
+      <path id="Trazado_117" data-name="Trazado 117" class="cls-2" d="M26.246,13.631l-1.3-1.336a.279.279,0,0,0-.207-.089h0a.268.268,0,0,0-.207.089l-9.005,9.072L12.25,18.089a.285.285,0,0,0-.413,0L10.523,19.4a.294.294,0,0,0,0,.421l4.134,4.134a1.307,1.307,0,0,0,.864.421,1.37,1.37,0,0,0,.856-.406h.007l9.869-9.921A.316.316,0,0,0,26.246,13.631Z" transform="translate(-10.434 -12.206)"/>
+    </g>
+    <path id="Icon_awesome-hand-holding" data-name="Icon awesome-hand-holding" class="cls-3" d="M29.9,22.926a1.751,1.751,0,0,0-2.254,0l-4.888,3.909a3.368,3.368,0,0,1-2.116.741H14.389c-.466,0-1.211,1.312-1.211.846a.849.849,0,0,1,.846-.846h4.142a1.761,1.761,0,0,0,1.762-1.407,1.7,1.7,0,0,0-1.672-1.978H9.792a6.226,6.226,0,0,0-3.92,1.391l-2.46,1.994.112,6-.112-6L.846,25.883A.849.849,0,0,0,0,26.729v6.252a.849.849,0,0,0,.846.846H3.524V32.654a34.223,34.223,0,0,1,6.268,0c3.864.3,9.929,0,9.929,0a3.39,3.39,0,0,0,2.116-.741l8-6.4A1.692,1.692,0,0,0,29.9,22.926Z" transform="translate(10.715 5.173)"/>
+  </g>
+</svg>

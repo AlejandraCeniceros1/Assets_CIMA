@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="53.808" height="36.872" viewBox="0 0 53.808 36.872">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 3px;
+      }
+    </style>
+  </defs>
+  <path id="Icon_open-inbox" data-name="Icon open-inbox" class="cls-1" d="M4.5,9H55.308V34.4H46.84l-8.468,8.468H21.436L12.968,34.4H4.5Z" transform="translate(-3 -7.5)"/>
+</svg>

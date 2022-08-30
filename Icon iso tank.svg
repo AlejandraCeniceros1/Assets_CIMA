@@ -1,0 +1,42 @@
+<svg id="Icon_iso_tank" data-name="Icon iso tank" xmlns="http://www.w3.org/2000/svg" width="62.159" height="34.5" viewBox="0 0 62.159 34.5">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-6 {
+        fill: none;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        stroke: #000;
+      }
+
+      .cls-1 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .cls-1, .cls-3 {
+        stroke-width: 3px;
+      }
+
+      .cls-2 {
+        stroke-width: 2px;
+      }
+
+      .cls-5 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <path id="Trazado_26" data-name="Trazado 26" class="cls-1" d="M17.566,32.4A6.533,6.533,0,1,1,4.5,32.4c0-1.05,0-2.093,0-2.093H17.566s0,.921,0,2.093Z" transform="translate(3.895 -5.931)"/>
+  <path id="Trazado_39" data-name="Trazado 39" class="cls-1" d="M17.566,32.4A6.533,6.533,0,1,1,4.5,32.4c0-1.05,0-2.093,0-2.093H17.566s0,.921,0,2.093Z" transform="translate(34.882 -5.931)"/>
+  <path id="Trazado_25" data-name="Trazado 25" class="cls-1" d="M24,12H34.453l7.84,7.84V32.906l-52.372-.159H24Z" transform="translate(18.366 -8.747)"/>
+  <path id="Icon_metro-truck2" data-name="Icon metro-truck2" class="cls-2" d="M78.873,38.112V33.53H85.04L89.5,38.112Z" transform="translate(-33.501 -27.448)"/>
+  <g id="Rectángulo_75" data-name="Rectángulo 75" class="cls-3">
+    <rect class="cls-5" width="42" height="24" rx="12"/>
+    <rect class="cls-6" x="1.5" y="1.5" width="39" height="21" rx="10.5"/>
+  </g>
+  <line id="Línea_31" data-name="Línea 31" class="cls-4" y1="15" transform="translate(12.5 9.5)"/>
+  <line id="Línea_33" data-name="Línea 33" class="cls-4" y1="15" transform="translate(28.5 9)"/>
+  <line id="Línea_32" data-name="Línea 32" class="cls-4" y1="4" transform="translate(12.5 1.5)"/>
+  <line id="Línea_34" data-name="Línea 34" class="cls-4" y1="4" transform="translate(28.5 1)"/>
+</svg>

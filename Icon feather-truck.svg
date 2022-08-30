@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60.491" height="45.813" viewBox="0 0 60.491 45.813">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke: #000;
+      }
+
+      .cls-1 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 3px;
+      }
+
+      .cls-2 {
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <g id="Icon_feather-truck" data-name="Icon feather-truck" transform="translate(1.5 1.5)">
+    <path id="Trazado_26" data-name="Trazado 26" class="cls-1" d="M17.566,32.4A6.533,6.533,0,1,1,4.5,32.4c0-1.05,0-2.093,0-2.093H17.566s0,.921,0,2.093Z" transform="translate(0.726 3.882)"/>
+    <path id="Trazado_39" data-name="Trazado 39" class="cls-1" d="M17.566,32.4A6.533,6.533,0,1,1,4.5,32.4c0-1.05,0-2.093,0-2.093H17.566s0,.921,0,2.093Z" transform="translate(31.714 3.882)"/>
+    <path id="Trazado_24" data-name="Trazado 24" class="cls-1" d="M1.5,4.5H40.7V38.472H1.5Z" transform="translate(-1.5 -4.5)"/>
+    <path id="Trazado_25" data-name="Trazado 25" class="cls-1" d="M24,12H34.453l7.84,7.84V32.906H24Z" transform="translate(15.199 1.066)"/>
+    <path id="Icon_metro-truck2" data-name="Icon metro-truck2" class="cls-2" d="M78.873,38.112V33.53H85.04L89.5,38.112Z" transform="translate(-36.669 -17.635)"/>
+  </g>
+</svg>

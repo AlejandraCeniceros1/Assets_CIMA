@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="54.006" height="45.497" viewBox="0 0 54.006 45.497">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3 {
+        fill: none;
+        stroke: #000;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-width: 3px;
+      }
+
+      .cls-2, .cls-3 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .cls-3 {
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <g id="Icon_ionic-md-boat" data-name="Icon ionic-md-boat" transform="translate(1.492 1.5)">
+    <path id="Trazado_33" data-name="Trazado 33" class="cls-1" d="M8.2,45.279H8.32c3.885,0,4.783-4.851,9.639-4.843s5.9,4.874,9.786,4.874,4.856-4.866,9.712-4.874,5.827,4.843,9.712,4.843h.121l5.835-15.8A2.674,2.674,0,0,0,53,27.546a2.377,2.377,0,0,0-1.431-1.209l-4.351-1.422V13.74a4.947,4.947,0,0,0-4.909-4.894H35.028L33.208,2.812H22.281L20.46,8.847H13.176A4.933,4.933,0,0,0,8.284,13.74V24.915L3.949,26.342A2.418,2.418,0,0,0,2.5,27.556a2.6,2.6,0,0,0-.117,1.923Zm39.09-20.364L27.753,18.6,8.2,24.915,27.753,18.6Z" transform="translate(-2.25 -2.812)"/>
+    <path id="Trazado_37" data-name="Trazado 37" class="cls-2" d="M15.825,33.022l13.026-5.313,14.14,5.313" transform="translate(-3.086 -6.869)"/>
+    <path id="Trazado_38" data-name="Trazado 38" class="cls-3" d="M0-1.2V-9.506H27.97V-1.2" transform="translate(11.765 20.434)"/>
+  </g>
+</svg>

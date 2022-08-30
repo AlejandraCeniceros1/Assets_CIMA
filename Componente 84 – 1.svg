@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="68.262" height="44.496" viewBox="0 0 68.262 44.496">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke: #000;
+        stroke-linecap: round;
+      }
+
+      .cls-1 {
+        stroke-linejoin: round;
+        stroke-width: 3px;
+      }
+
+      .cls-2 {
+        stroke-width: 2px;
+      }
+
+      .cls-3 {
+        fill: #707070;
+      }
+
+      .cls-4, .cls-5 {
+        stroke: none;
+      }
+
+      .cls-5 {
+        fill: #707070;
+      }
+    </style>
+  </defs>
+  <g id="Componente_84_1" data-name="Componente 84 – 1" transform="translate(1.5 1)">
+    <path id="Trazado_94" data-name="Trazado 94" class="cls-1" d="M70.138,48.255h0V26.549L50.089,22.407h-.895l-44.318,8,23.059,6.314,42.2-10.171-42.2,10.171L4.877,30.407h0V51.321c0,2.148,1.138,3.019,2.744,4.093l17.67,7.594a4.591,4.591,0,0,0,5.2,0Z" transform="translate(-4.877 -21.907)"/>
+    <line id="Línea_54" data-name="Línea 54" class="cls-2" y2="15.918" transform="translate(4.456 13.648)"/>
+    <line id="Línea_55" data-name="Línea 55" class="cls-2" y2="15.918" transform="translate(7.456 14.873)"/>
+    <line id="Línea_56" data-name="Línea 56" class="cls-2" y2="15.918" transform="translate(10.456 16.097)"/>
+    <line id="Línea_57" data-name="Línea 57" class="cls-2" y2="15.918" transform="translate(13.456 17.322)"/>
+    <line id="Línea_58" data-name="Línea 58" class="cls-2" y2="15.918" transform="translate(16.456 18.546)"/>
+    <line id="Línea_59" data-name="Línea 59" class="cls-2" y2="15" transform="translate(57.916 10)"/>
+    <line id="Línea_60" data-name="Línea 60" class="cls-2" y2="15" transform="translate(54.916 11)"/>
+    <line id="Línea_61" data-name="Línea 61" class="cls-2" y2="15" transform="translate(51.916 12)"/>
+    <line id="Línea_62" data-name="Línea 62" class="cls-2" y2="15" transform="translate(48.916 13)"/>
+    <line id="Línea_63" data-name="Línea 63" class="cls-2" y2="15" transform="translate(45.916 14)"/>
+    <line id="Línea_64" data-name="Línea 64" class="cls-2" y2="16" transform="translate(42.916 14)"/>
+    <line id="Línea_65" data-name="Línea 65" class="cls-2" y2="17" transform="translate(39.916 15)"/>
+    <line id="Línea_66" data-name="Línea 66" class="cls-2" y2="17" transform="translate(36.916 16)"/>
+    <line id="Línea_67" data-name="Línea 67" class="cls-2" y2="18" transform="translate(33.916 16)"/>
+    <line id="Línea_68" data-name="Línea 68" class="cls-2" y2="18" transform="translate(30.916 17)"/>
+    <path id="Trazado_95" data-name="Trazado 95" class="cls-2" d="M0,0V18" transform="translate(27.916 18)"/>
+    <path id="Trazado_96" data-name="Trazado 96" class="cls-2" d="M0,0V24.469" transform="translate(22.916 16)"/>
+    <line id="Línea_69" data-name="Línea 69" class="cls-2" y2="15" transform="translate(60.916 8.5)"/>
+    <g id="Trazado_97" data-name="Trazado 97" class="cls-3" transform="translate(11.25 2.5)">
+      <path class="cls-4" d="M 12.08507061004639 11.03413677215576 L -7.048287391662598 5.943507194519043 L 33.34880065917969 -1.764616370201111 L 50.67235946655273 1.873499512672424 L 12.08507061004639 11.03413677215576 Z"/>
+      <path class="cls-5" d="M 12.09201717376709 10.51858997344971 L 48.38184356689453 1.903371572494507 L 33.34410858154297 -1.254698753356934 L -4.801655292510986 6.023852348327637 L 12.09201717376709 10.51858997344971 M 12.07812404632568 11.54968357086182 L -9.294915199279785 5.863163471221924 L 33.353515625 -2.274536848068237 L 52.96289443969727 1.843623280525208 L 12.07812404632568 11.54968357086182 Z"/>
+    </g>
+    <path id="Trazado_98" data-name="Trazado 98" class="cls-2" d="M0,0V9.615" transform="translate(44.916)"/>
+  </g>
+</svg>

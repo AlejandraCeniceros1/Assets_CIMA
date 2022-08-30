@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="76.212" height="68.533" viewBox="0 0 76.212 68.533">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-width: 3px;
+      }
+
+      .cls-1 {
+        stroke-linejoin: round;
+      }
+    </style>
+  </defs>
+  <g id="Grupo_12" data-name="Grupo 12" transform="translate(130.389 45.652)">
+    <path id="Trazado_43" data-name="Trazado 43" class="cls-1" d="M-8.889,39.483V3.08H64.323v36.4H-8.889" transform="translate(-120 -18.103)"/>
+    <line id="Línea_8" data-name="Línea 8" class="cls-2" y2="26.154" transform="translate(-122.569 -9.632)"/>
+    <line id="Línea_9" data-name="Línea 9" class="cls-2" y2="26.154" transform="translate(-114.04 -9.632)"/>
+    <line id="Línea_10" data-name="Línea 10" class="cls-2" y2="26.154" transform="translate(-105.512 -9.632)"/>
+    <line id="Línea_11" data-name="Línea 11" class="cls-2" y2="26.154" transform="translate(-96.983 -9.632)"/>
+    <line id="Línea_12" data-name="Línea 12" class="cls-2" y2="26.154" transform="translate(-88.455 -9.632)"/>
+    <line id="Línea_13" data-name="Línea 13" class="cls-2" y2="26.154" transform="translate(-79.926 -9.632)"/>
+    <line id="Línea_14" data-name="Línea 14" class="cls-2" y2="26.154" transform="translate(-70.829 -9.632)"/>
+    <line id="Línea_15" data-name="Línea 15" class="cls-2" y2="26.154" transform="translate(-61.732 -9.632)"/>
+    <line id="Línea_16" data-name="Línea 16" class="cls-2" x1="25.586" y2="18.763" transform="translate(-121.432 -34.081)"/>
+    <line id="Línea_17" data-name="Línea 17" class="cls-2" x2="26.154" y2="18.763" transform="translate(-88.455 -34.081)"/>
+    <path id="Trazado_44" data-name="Trazado 44" class="cls-2" d="M0,1.083s2.2,2.99,4.491,2.933A3.965,3.965,0,0,0,8.359-.014,3.211,3.211,0,0,0,7-2.193,5.923,5.923,0,0,0,4.491-3.228V-6.714" transform="translate(-96.983 -37.438)"/>
+  </g>
+</svg>

@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="190.252" height="63.908" viewBox="0 0 190.252 63.908">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3 {
+        fill: none;
+        stroke: #000;
+        stroke-linecap: round;
+      }
+
+      .cls-1 {
+        stroke-linejoin: round;
+        stroke-width: 3px;
+      }
+
+      .cls-2 {
+        stroke-width: 2px;
+      }
+
+      .cls-3 {
+        stroke-width: 1.5px;
+      }
+
+      .cls-4 {
+        fill: #fe5635;
+      }
+
+      .cls-5 {
+        fill: #334756;
+        font-size: 22px;
+        font-family: Montserrat-Bold, Montserrat;
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <g id="Icon_feather-box" data-name="Icon feather-box" transform="translate(1 1.5)">
+    <path id="Trazado_90" data-name="Trazado 90" class="cls-1" d="M70.138,48.255l-20.943-9,20.943,9,2.154-21.706-22.2-4.143-.895,16.851L28.084,45.074V36.458L4.877,30.407V51.321c0,2.148,1.138,3.019,2.744,4.093l17.67,7.594a4.591,4.591,0,0,0,5.2,0Z" transform="translate(115.459 -22.407)"/>
+    <path id="Trazado_92" data-name="Trazado 92" class="cls-1" d="M18,44.2V18" transform="translate(125.349 -3.421)"/>
+    <line id="Línea_18" data-name="Línea 18" class="cls-2" y2="15.918" transform="translate(124.791 13.148)"/>
+    <line id="Línea_19" data-name="Línea 19" class="cls-2" y2="15.918" transform="translate(127.791 14.373)"/>
+    <line id="Línea_20" data-name="Línea 20" class="cls-2" y2="15.918" transform="translate(130.791 15.597)"/>
+    <line id="Línea_21" data-name="Línea 21" class="cls-2" y2="15.918" transform="translate(133.791 16.822)"/>
+    <line id="Línea_22" data-name="Línea 22" class="cls-2" y2="15.918" transform="translate(136.791 18.046)"/>
+    <line id="Línea_23" data-name="Línea 23" class="cls-2" y1="7.104" x2="22" transform="translate(143.791 20.942)"/>
+    <line id="Línea_26" data-name="Línea 26" class="cls-3" y1="10" transform="translate(169.791 4.942)"/>
+    <line id="Línea_27" data-name="Línea 27" class="cls-3" y1="10" transform="translate(172.791 5.942)"/>
+    <line id="Línea_28" data-name="Línea 28" class="cls-3" y1="10" transform="translate(175.791 6.942)"/>
+    <line id="Línea_29" data-name="Línea 29" class="cls-3" y1="10" transform="translate(178.791 7.942)"/>
+    <line id="Línea_30" data-name="Línea 30" class="cls-3" y1="10" transform="translate(181.791 8.942)"/>
+    <line id="Línea_24" data-name="Línea 24" class="cls-2" y1="8.104" x2="24" transform="translate(145.791 22.942)"/>
+    <line id="Línea_25" data-name="Línea 25" class="cls-2" y1="10.104" x2="28" transform="translate(146.791 24.942)"/>
+    <path id="Trazado_121" data-name="Trazado 121" class="cls-4" d="M0,0H59V5H0Z" transform="translate(127 51.408)"/>
+    <text id="Flat_rack" data-name="Flat rack" class="cls-5" transform="translate(100 56.408)"><tspan x="-100.518" y="0">Flat rack</tspan></text>
+  </g>
+</svg>

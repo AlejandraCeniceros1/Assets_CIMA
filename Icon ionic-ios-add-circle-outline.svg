@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        stroke: #000;
+      }
+
+      .cls-2, .cls-4 {
+        fill: none;
+      }
+
+      .cls-2 {
+        stroke-width: 2.2px;
+      }
+
+      .cls-3 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="Icon_ionic-ios-add-circle-outline" data-name="Icon ionic-ios-add-circle-outline" transform="translate(1.917 2.537)">
+    <path id="Trazado_125" data-name="Trazado 125" class="cls-1" d="M23.677,16.56H18.7V11.581H16.56V16.56H11.581V18.7H16.56v4.979H18.7V18.7h4.979Z" transform="translate(-7.299 -8.396)"/>
+    <g id="Rectángulo_139" data-name="Rectángulo 139" class="cls-2" transform="translate(-1.917 -2.537)">
+      <rect class="cls-3" width="24" height="24" rx="5"/>
+      <rect class="cls-4" x="1.1" y="1.1" width="21.8" height="21.8" rx="3.9"/>
+    </g>
+  </g>
+</svg>
